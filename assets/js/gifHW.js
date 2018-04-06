@@ -1,6 +1,7 @@
 console.log("hello");
 
 var animals = [
+    "",
     "dogs",
     "cats",
     "pigs",
